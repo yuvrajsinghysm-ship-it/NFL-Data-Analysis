@@ -1,3 +1,6 @@
+<img width="876" height="674" alt="Screenshot (182)" src="https://github.com/user-attachments/assets/863ce089-d772-483c-9bc3-cdbba9933b76" />
+
+
 # NFL-Data-Analysis
 An interactive Power BI dashboard for monitoring fertilizer plant operations, analyzing production performance, equipment status, maintenance activities, energy efficiency, downtime, and safety metrics using a realistic industrial dataset.
 
