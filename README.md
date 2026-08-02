@@ -1,4 +1,4 @@
-<img width="876" height="674" alt="Screenshot (182)" src="https://github.com/user-attachments/assets/863ce089-d772-483c-9bc3-cdbba9933b76" />
+
 
 
 # NFL-Data-Analysis
@@ -40,3 +40,5 @@ Department-wise Operations
 🎯 Project Objective
 
 To build an interactive operations dashboard that enables plant managers to monitor production performance, identify operational bottlenecks, track maintenance activities, and support data-driven decision-making.
+
+<img width="876" height="674" alt="Screenshot (182)" src="https://github.com/user-attachments/assets/863ce089-d772-483c-9bc3-cdbba9933b76" />
